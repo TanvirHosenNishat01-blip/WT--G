@@ -1,0 +1,29 @@
+h1, p {
+    color: #5c1aa8;
+    background-color: #f0e6f7;
+    border: 2px solid #5c1aa8;
+
+}
+p{
+    color: #2a1111;
+    font-size: 16px;
+    line-height: 1.5;
+}
+#photo {
+    color: #5c1aa8;
+}
+#date {
+    color: #020913;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+}
+#date {
+    color: #6d1321;
+    font-size: 14px;
+    font-style: italic;
+}
+label {
+    color: Green;
+    font-weight: bold;
+}
